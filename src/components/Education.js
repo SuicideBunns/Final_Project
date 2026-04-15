@@ -3,11 +3,8 @@ import globalight from '../image/Elem.png';
 import kings from '../image/Highsc.png';
 import uc from '../image/col.png';
 
-const schools = [
-  { level: 'Elementary', school: 'Globalight Vision School', logo: globalight },
-  { level: 'High School', school: "King's College of the Philippines", logo: kings },
-  { level: 'College', degree: 'BS Information Technology', school: 'University of the Cordilleras', logo: uc },
-]
+
+
 const Education = () => {
   
   return (
